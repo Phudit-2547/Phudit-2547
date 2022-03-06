@@ -1,7 +1,5 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudit-2547&theme=tokyonight&show_icons=true)
-<img src="{https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white%7D" /> 
-![image]({https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white%7D)
 <!--
 **Phudit-2547/Phudit-2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
