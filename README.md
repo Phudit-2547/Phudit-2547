@@ -5,6 +5,6 @@
 ![image](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white!) ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Phudit-2547)
-
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=vue)
 💻 My workspace
 ![image](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
