@@ -9,7 +9,7 @@
 💻 My workspace
 ![image](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
-<a href="https://app.daily.dev/PhuditPum"><img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=8pv" width="400" alt="Phudit Pumcharern's Dev Card"/></a>
+<a href="https://app.daily.dev/PhuditPum"><img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=pus" width="400" alt="Phudit Pumcharern's Dev Card"/></a>
 
 <p align="center">
 	<a href="https://skillicons.dev">
