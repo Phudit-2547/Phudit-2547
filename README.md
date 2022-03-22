@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/88961123/156926875-fc20d800-e901-4148-be52-996f48e19b10.png)
+![github-header-image](https://user-images.githubusercontent.com/88961123/159499718-92679e0a-2f2c-4bab-be25-ae1d37c0bc8b.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudit-2547&theme=tokyonight&show_icons=true)
 
@@ -16,3 +16,4 @@
 		<img src="https://skillicons.dev/icons?i=git,c,py" />
 	</a>
 </p>
+
