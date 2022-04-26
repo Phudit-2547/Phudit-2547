@@ -1,5 +1,28 @@
 ![github-header-image](https://user-images.githubusercontent.com/88961123/159499718-92679e0a-2f2c-4bab-be25-ae1d37c0bc8b.png)
 
+Hi 👋 My name is Phudit Pumcharern
+==================================
+
+Student
+-------
+
+* 🌍  I'm based in Ratchaburi
+* ✉️  You can contact me at [bigphudit2547@gmail.com](mailto:bigphudit2547@gmail.com)
+* 🧠  I'm learning C++
+* ⚡  I'm in with Anime,Manga,Anything about Japan.
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Phudit-2547" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudit-2547&theme=tokyonight&show_icons=true)
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=vue)
