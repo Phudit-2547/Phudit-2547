@@ -19,10 +19,6 @@ Student
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Phudit-2547" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudit-2547&theme=tokyonight&show_icons=true)
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=vue)
