@@ -13,10 +13,10 @@ Student
 
 ### Skills
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,c,cpp,py" />
+	</a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudit-2547&theme=tokyonight&show_icons=true)
@@ -30,9 +30,5 @@ Student
 
 <a href="https://app.daily.dev/PhuditPum"><img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=pus" width="400" alt="Phudit Pumcharern's Dev Card"/></a>
 
-<p align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,c,cpp,py" />
-	</a>
-</p>
+
 
