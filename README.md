@@ -1,8 +1,5 @@
 ![github-header-image](https://user-images.githubusercontent.com/88961123/159499718-92679e0a-2f2c-4bab-be25-ae1d37c0bc8b.png)
 
-Hi 👋 My name is Phudit Pumcharern
-==================================
-
 Student
 -------
 
