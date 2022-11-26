@@ -25,10 +25,6 @@
 <a href="https://app.daily.dev/PhuditPum">
   <img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=pus" width="400" alt="Phudit Pumcharern's Dev Card"/>
   </a>
-</div>
-  <br>
-  <img src="https://raw.githubusercontent.com/Phudit-2547/Phudit-2547/blob/output/snake.svg" alt="Snake animation" />
-</div>
 
 ###
 ## Skill 
