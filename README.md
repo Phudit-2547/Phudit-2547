@@ -20,6 +20,7 @@
   <a href="https://hyperskill.org/profile/212545242" >
     <img src="https://hyperskill.org/static/favicons/favicon-128.png"  height="150" alt="hyper skill stat" />
   </a>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Phudit-2547" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide=jupyter%20notebook&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Phudit-2547" height="150" alt="languages graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=tokyonight"  />
