@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" height="30" width="42" alt="R logo"  />
            
 </div>
 
