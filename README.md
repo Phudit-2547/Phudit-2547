@@ -83,7 +83,7 @@
 
 ###
 
-## Music 
+## :notes: Music 
 <div align="center">
 <p><a href="https://github.com/rayriffy/apple-music-github-profile"><img src="https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001388.6892a45f13d944e48c91275a7ec94f92.1614" alt="Apple Music GitHub profile"></a></p>
   <a href="https://youtu.be/1gsf4qvsLCM">
