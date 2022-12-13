@@ -91,7 +91,7 @@
     <img src="https://static.wikia.nocookie.net/mrfz/images/9/94/Till_the_Bell_Tolls.png/revision/latest?cb=20220224012725" width="400">
     <a>
       <br>
-  <a href="https://youtu.be/Gc3NKC8TQtY">
+  <a href="https://www.youtube.com/watch?v=Gc3NKC8TQtY&list=OLAK5uy_k0x6z9NnS98wi0k_kgbYae_rCVvLWs7rc">
     <img src="https://cdn.discordapp.com/attachments/853133039827288065/1040272463583527013/image.png" width="400" alt="Seisyun complex">
     <a>
 <div>
