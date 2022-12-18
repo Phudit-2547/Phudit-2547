@@ -10,7 +10,8 @@
 * ⚡  I'm in with Anime,Manga,Anything about Japan.
 
 <p>
-  <a href="https://youtu.be/BnkhBwzBqlQ"><img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />
+  <a href="https://youtu.be/BnkhBwzBqlQ">
+    <img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />
   </a>
 </p>
 
