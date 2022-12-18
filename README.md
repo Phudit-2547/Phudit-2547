@@ -35,7 +35,7 @@
 </div>
 
 ###
-## Skill 
+## Skills 
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
