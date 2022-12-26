@@ -96,7 +96,4 @@
     <img src="https://cdn.discordapp.com/attachments/853133039827288065/1040272463583527013/image.png" width="400" alt="Seisyun complex">
     <a>
 <div>
-<p>
-  <img src="https://user-images.githubusercontent.com/88961123/209475858-25de48af-d995-4c70-9c28-7d3223339739.jpg" width="400" alt="image0">
-  </p>
-  <br> ctto
+
