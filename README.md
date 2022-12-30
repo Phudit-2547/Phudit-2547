@@ -92,8 +92,8 @@
     <img src="https://static.wikia.nocookie.net/mrfz/images/9/94/Till_the_Bell_Tolls.png/revision/latest?cb=20220224012725" width="400">
     <a>
       <br>
-  <a href="https://www.youtube.com/watch?v=Gc3NKC8TQtY&list=OLAK5uy_k0x6z9NnS98wi0k_kgbYae_rCVvLWs7rc">
-    <img src="https://cdn.discordapp.com/attachments/853133039827288065/1040272463583527013/image.png" width="400" alt="Seisyun complex">
+  <a href="https://www.youtube.com/watch?v=RWFW1OSlMkM&list=OLAK5uy_mNWkxcU6VC_aWOFnpqYha-J5UMzwbVlx4">
+    <img src="https://animecorner.me/wp-content/uploads/2022/11/bocchi-the-rock-anime-kessoku-band.jpg?ezimgfmt=ng:webp/ngcb21" width="400" alt="Seisyun complex">
     <a>
 <div>
 
