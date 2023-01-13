@@ -12,6 +12,9 @@
   <a href="https://youtu.be/3ijkvUYwJhU">
     <img width=200 height=200 src=https://media.tenor.com/0yAbWNOq4lkAAAAC/nijika-ijichi-ijichi-nijika.gif alt="Nijika drumming" />
   </a>
+  <a href="https://youtu.be/MTPiaDzacSI">
+    <img width=200 height=200 src=https://fi.somethingawful.com/safs/titles/8d/05/00187767.0011.gif alt="Ryo Bass" />
+  </a>
 </p>
 
 ## Stats
