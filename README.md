@@ -95,10 +95,6 @@
 
 ## :notes: Music 
 <div align="center">
-<p>
-  <a href="https://github.com/rayriffy/apple-music-github-profile"><img src="https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001388.6892a45f13d944e48c91275a7ec94f92.1614" alt="Apple Music GitHub profile">
-  </a>
-</p>
   <a href="https://www.youtube.com/watch?v=RWFW1OSlMkM&list=OLAK5uy_mNWkxcU6VC_aWOFnpqYha-J5UMzwbVlx4">
     <img src="https://animecorner.me/wp-content/uploads/2022/11/bocchi-the-rock-anime-kessoku-band.jpg?ezimgfmt=ng:webp/ngcb21" width="400" alt="Seisyun complex">
   </a>
