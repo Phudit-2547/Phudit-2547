@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/88961123/159499718-92679e0a-2f2c-4bab-be25-ae1d37c0bc8b.png)
 
-## Student
+## Just Student
 
 * 🌍  I live in Ratchaburi, Thailand.
 * ✉️  You can contact me at [bigphudit2547@gmail.com](mailto:bigphudit2547@gmail.com)
