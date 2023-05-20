@@ -2,7 +2,7 @@
 
 ## Just Student
 
-* 🌍  I live in Ratchaburi, Thailand.
+* 🌍  I live in Bangkok, Thailand.
 * ✉️  You can contact me at [bigphudit2547@gmail.com](mailto:bigphudit2547@gmail.com)
 * 🧠  I want to be a Data Engineer.
 * ⚡  I'm into Anime,Manga, Anything about Japan.
