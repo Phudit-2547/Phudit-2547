@@ -5,7 +5,7 @@
 * 🌍  I live in Bangkok, Thailand.
 * ✉️  You can contact me at [bigphudit2547@gmail.com](mailto:bigphudit2547@gmail.com)
 * 🧠  I want to be a Data Engineer.
-* ⚡  I'm into Anime,Manga, Anything about Japan.
+* ⚡  I'm into Anime, Manga, Anything about Japan. Now studying for N5.
 
 <p>
   <a href="https://youtu.be/3ijkvUYwJhU">
