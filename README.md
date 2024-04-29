@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/88961123/159499718-92679e0a-2f2c-4bab-be25-ae1d37c0bc8b.png)
 
-## Just Student
+## Just A Student
 
 * 🌍  I live in Bangkok, Thailand.
 * ✉️  You can contact me at [bigphudit2547@gmail.com](mailto:bigphudit2547@gmail.com)
@@ -50,9 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"height="30" width="42" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
   <img src="https://user-images.githubusercontent.com/33158051/103333492-1d992100-4a3c-11eb-8cd4-e83cb2c44895.png" height="30" width="42" alt="R logo"  />
            
@@ -78,8 +76,9 @@
 ## 💻 My workspace
 
 <div align="center">
-<img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <a href="https://replit.com/@Oniichan7217">
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
   </a>
