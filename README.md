@@ -25,17 +25,17 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ppumchar.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Phudit-2547" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-ppumchar.vercel.app/api/top-langs?locale=en&hide=jupyter%20notebook&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Phudit-2547" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Phudit-2547" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide=jupyter%20notebook&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Phudit-2547" height="150" alt="languages graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=tokyonight"  />
   <br>
   <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/cl9cag3kf00160gjtdx3xro3a/stats?cursusId=3&coalitionId=undefined" alt="ppumchar's 42 stats" />
   </a>
   <br>
-<a href="https://app.daily.dev/PhuditPum">
+<!-- <a href="https://app.daily.dev/PhuditPum">
   <img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=pus" width="400" alt="Phudit Pumcharern's Dev Card"/>
-  </a>
+  </a> -->
 </div>
 
 ###
