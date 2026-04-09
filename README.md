@@ -21,21 +21,21 @@
   </a>
 </p>
 
-## Stats
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Phudit-2547" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide=jupyter%20notebook&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Phudit-2547" height="150" alt="languages graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=tokyonight"  />
-  <br>
-<!--   <a href="https://github.com/JaeSeoKim/badge42">
+  <br> 
+  <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/cl9cag3kf00160gjtdx3xro3a/stats?cursusId=3&coalitionId=undefined" alt="ppumchar's 42 stats" />
-  </a> -->
+  </a> 
   <br>
 <a href="https://app.daily.dev/PhuditPum">
   <img src="https://api.daily.dev/devcards/ce13921e49644ce08569a5b89ef2318b.png?r=pus" width="400" alt="Phudit Pumcharern's Dev Card"/>
   </a>
-</div>
+</div> -->
 
 ###
 ## Skills 
@@ -89,10 +89,6 @@
 
 ## :notes: Music 
 <div align="center">
-  <a href="https://github.com/rayriffy/apple-music-github-profile">
-    <img src="https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=001388.6892a45f13d944e48c91275a7ec94f92.1614" alt="Apple Music GitHub profile">
-  </a>
-  <br>
   <a href="https://www.youtube.com/watch?v=RWFW1OSlMkM&list=OLAK5uy_mNWkxcU6VC_aWOFnpqYha-J5UMzwbVlx4">
     <img src="https://animecorner.me/wp-content/uploads/2022/11/bocchi-the-rock-anime-kessoku-band.jpg?ezimgfmt=ng:webp/ngcb21" width="400" alt="Seisyun complex">
   </a>
